@@ -19,6 +19,9 @@
 //     }
 // });
 
+// VERSION ANTIGUA LA DE ARRIBA, UTILIZANDO DATOS EN CRUDO
+
+
 
 // Función para manejar el inicio de sesión
 document.getElementById('loginForm').addEventListener('submit', function(event) {
